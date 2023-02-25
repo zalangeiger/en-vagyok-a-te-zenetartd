@@ -1,5 +1,6 @@
 {
     "name": "én vagyok a te zenetartód",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
